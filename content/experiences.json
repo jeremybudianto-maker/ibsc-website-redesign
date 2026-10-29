@@ -1,0 +1,76 @@
+[
+  {
+    "id": "experience-community",
+    "title": "A community you help shape",
+    "dek": "Meet peers. Share ideas. Make something happen.",
+    "image": "association.jpeg",
+    "alt": "Students and community participants at an IBSC activity",
+    "caption": "An activity shared by the IBSC Student Association.",
+    "paragraphs": [
+      "The Student Association brings students together through events, workshops and networking. Participation offers a way to build friendships, develop leadership and contribute your voice to campus life.",
+      "From cultural exchange to student gatherings and service, shared experiences are part of learning to communicate across cultures."
+    ],
+    "links": [
+      {
+        "label": "Explore the Student Association",
+        "href": "#association-panel"
+      },
+      {
+        "label": "Read Night of Glory",
+        "href": "story-night-of-glory.html"
+      }
+    ],
+    "sources": [
+      "https://ih.hs.yzu.edu.tw/ibsc-student-association"
+    ]
+  },
+  {
+    "id": "experience-global",
+    "title": "A different classroom, a wider perspective",
+    "dek": "Explore learning beyond the familiar.",
+    "image": "global.jpg",
+    "alt": "An overseas experience featured by IBSC",
+    "caption": "An overseas experience featured by IBSC.",
+    "paragraphs": [
+      "International experiences offer a different classroom and a chance to put communication into practice. Explore host institutions and courses, then discuss how an exchange could fit your academic plan.",
+      "Ask the program office about the opportunities currently available. The exchange guide below explains preparation, nomination and the steps before departure."
+    ],
+    "links": [
+      {
+        "label": "Explore global opportunities",
+        "href": "#global-panel"
+      },
+      {
+        "label": "Plan your studies",
+        "href": "academics.html#curriculum-panel"
+      }
+    ],
+    "sources": [
+      "https://ih.hs.yzu.edu.tw/events",
+      "https://gao.yzu.edu.tw/index.php/en/int-exchange-2/out-student"
+    ]
+  },
+  {
+    "id": "experience-service",
+    "title": "Communication through contribution",
+    "dek": "Put learning into practice with others.",
+    "image": "service-learning-visit.jpeg",
+    "alt": "IBSC students leading a Christmas activity at Bao-Sheng Elementary School",
+    "caption": "IBSC students taking part in a Christmas activity at Bao-Sheng Elementary School.",
+    "paragraphs": [
+      "IBSC’s featured activities include visits to Bao-Sheng Elementary School, where students take part in English teaching and Christmas activities. These encounters connect communication with participation in the wider community.",
+      "Service learning also involves reflection. Review the activity process and service-log guidance before you begin, and confirm eligible activities with the university."
+    ],
+    "links": [
+      {
+        "label": "Read the service learning guide",
+        "href": "#service-panel"
+      }
+    ],
+    "sources": [
+      "https://ih.hs.yzu.edu.tw/copy-of-prospective-students",
+      "https://ih.hs.yzu.edu.tw/services-7-1"
+    ],
+    "source_image": "https://static.wixstatic.com/media/2ac1ee_ffee7788515949a5a90200738be3ef54~mv2.jpeg"
+  }
+]

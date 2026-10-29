@@ -1,0 +1,39 @@
+# Local secrets and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+secrets*.json
+
+# Local tooling and platform state
+.openai/
+.vercel/
+.netlify/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Archives, logs, and scratch files
+*.log
+*.zip
+*.tar
+*.tar.gz
+*.bak
+*.tmp
+
+# Keep dist/: this source stores maintained CSS, JS, fonts, and media there.
+# Ignore rules do not remove files already tracked by Git or clear history.

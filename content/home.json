@@ -1,0 +1,117 @@
+{
+  "title": "Great ideas deserve a powerful voice",
+  "description": "Discover IBSC at Yuan Ze University: an English-taught degree in strategic communication, with a global community and interdisciplinary learning.",
+  "hero": {
+    "image": "hero.jpg",
+    "alt": "IBSC students sharing a moment together on the Yuan Ze University campus",
+    "eyebrow": "An international outlook, a voice of your own",
+    "title": "Great ideas deserve\na powerful voice",
+    "description": "Learn to connect people, cultures, and ideas.\nDiscover Strategic Communication at Yuan Ze University.",
+    "action": {
+      "label": "Discover IBSC",
+      "href": "about.html"
+    },
+    "program": "International Bachelor in Strategic Communication",
+    "scroll_label": "Explore"
+  },
+  "intro": {
+    "title": "Rooted in Taiwan\nConnected to the world",
+    "label": "English-taught · Since 2017",
+    "description": "A community of thinkers, creators, and communicators. An education that opens conversations across cultures.",
+    "action": {
+      "label": "Why IBSC",
+      "href": "about.html"
+    }
+  },
+  "inside": {
+    "eyebrow": "Ideas & experiences",
+    "title": "Inside IBSC",
+    "action": {
+      "label": "All news & stories",
+      "href": "news.html"
+    }
+  },
+  "academics": {
+    "eyebrow": "An education without boundaries",
+    "title": "One program\nMany ways to think",
+    "description": "Strategic communication brings disciplines together. Explore the humanities, social sciences, languages, design, and business — and learn to turn insight into meaningful expression.",
+    "action": {
+      "label": "Explore academics",
+      "href": "academics.html"
+    },
+    "disciplines": [
+      {
+        "title": "Social & Policy\nSciences",
+        "href": "academics.html#social-policy"
+      },
+      {
+        "title": "Language &\nLiterature",
+        "href": "academics.html#language-literature"
+      },
+      {
+        "title": "Applied Linguistics\n& Foreign Languages",
+        "href": "academics.html#applied-linguistics"
+      },
+      {
+        "title": "Art &\nDesign",
+        "href": "academics.html#art-design"
+      },
+      {
+        "title": "Business &\nManagement",
+        "href": "academics.html#business-management"
+      }
+    ]
+  },
+  "faculty": {
+    "eyebrow": "People who make a difference",
+    "title": "Meet our faculty",
+    "description": "Learn with faculty whose perspectives cross disciplines and cultures, from language and rhetoric to communication in practice.",
+    "action": {
+      "label": "Faculty & staff",
+      "href": "people.html"
+    }
+  },
+  "student_life": {
+    "image": "student-life.jpg",
+    "alt": "IBSC students jumping together on the campus lawn",
+    "eyebrow": "A place to belong",
+    "title": "Different cultures\nShared possibilities",
+    "description": "Find your people, try something new, and bring your perspective to a community that looks beyond borders. Your IBSC experience continues well beyond the classroom.",
+    "action": {
+      "label": "Explore student experiences",
+      "href": "student-life.html#experiences"
+    },
+    "links": [
+      {
+        "label": "Student Association",
+        "href": "student-life.html#association-panel"
+      },
+      {
+        "label": "Global opportunities",
+        "href": "student-life.html#global-panel"
+      }
+    ]
+  },
+  "admissions": {
+    "eyebrow": "Your future, in focus",
+    "title": "Start your\nnext chapter",
+    "description": "Bring your curiosity. Find your voice. Explore an English-taught degree in strategic communication in Taiwan.",
+    "links": [
+      {
+        "label": "International applicants",
+        "description": "Explore the application process and current guidance",
+        "href": "admissions.html#journey-international"
+      },
+      {
+        "label": "Domestic applicants",
+        "description": "Find your undergraduate admission pathway",
+        "href": "admissions.html#journey-domestic"
+      },
+      {
+        "label": "Scholarships & support",
+        "description": "Discover resources for your university journey",
+        "href": "admissions.html#support"
+      }
+    ]
+  }
+}

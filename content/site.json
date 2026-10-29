@@ -1,0 +1,36 @@
+{
+  "brand": {"abbreviation": "IBSC", "university": "Yuan Ze University", "program": "Strategic Communication"},
+  "program_lines": "International Bachelor in Strategic Communication\nCollege of Humanities and Social Sciences\nYuan Ze University · Taoyuan, Taiwan",
+  "address_lines": "No. 135, Yuandong Road\nZhongli District, Taoyuan City 320, Taiwan\nBuilding 7, Room R70201 (2nd floor)",
+  "phone": "+886 3 463 8800",
+  "phone_href": "tel:+88634638800",
+  "extension": "2732",
+  "director_id": "ching-pu-chen",
+  "secretary": {"name": "Shih Ching Fang", "role": "Program Secretary", "email": "mina0419509@saturn.yzu.edu.tw"},
+  "navigation": [
+    {"label": "About IBSC", "href": "about.html"},
+    {"label": "Academics", "href": "academics.html"},
+    {"label": "People", "href": "people.html"},
+    {"label": "Student Life", "href": "student-life.html"},
+    {"label": "News", "href": "news.html"}
+  ],
+  "admissions_link": {"label": "Admission & Aid", "href": "admissions.html"},
+  "footer_explore_title": "Explore IBSC",
+  "footer_contact_title": "Connect with us",
+  "footer_links": [
+    {"label": "About the program", "href": "about.html"},
+    {"label": "Academics & curriculum", "href": "academics.html"},
+    {"label": "Faculty & staff", "href": "people.html"},
+    {"label": "Student resources", "href": "resources.html"},
+    {"label": "Admissions & scholarships", "href": "admissions.html"},
+    {"label": "Yuan Ze University", "href": "university.html", "show_arrow": true}
+  ],
+  "contact_link": {"label": "Contact & visit", "href": "about.html#visit"},
+  "footer_credit": "IBSC website redesign",
+  "credits_link": {"label": "Content & photography credits", "href": "sources.html"},
+  "social_links": [
+    {"label": "Instagram", "href": "https://www.instagram.com/ibscyzu_official/"},
+    {"label": "YouTube", "href": "https://www.youtube.com/@ibscyzu.official"},
+    {"label": "Facebook", "href": "https://www.facebook.com/EBSCYZU/"}
+  ]
+}

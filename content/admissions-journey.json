@@ -1,0 +1,116 @@
+[
+  {
+    "id": "international",
+    "title": "International applicants",
+    "description": "Prepare for an international degree application.",
+    "intro": "Start with your applicant category, then prepare your application through Yuan Ze University’s official system.",
+    "steps": [
+      {
+        "title": "Confirm your pathway",
+        "copy": "Review the international applicant guidance. Ask the Global Affairs Office if your nationality or education history needs clarification.",
+        "link": {
+          "label": "Read the international guide",
+          "href": "#international-guide"
+        }
+      },
+      {
+        "title": "Prepare your documents",
+        "copy": "Use the current brochure and program entry to organize academic records, language evidence and supporting materials.",
+        "link": {
+          "label": "Explore document preparation",
+          "href": "#international-documents"
+        }
+      },
+      {
+        "title": "Apply and follow up",
+        "copy": "Submit through the official portal, watch for document requests and follow the instructions for admission results.",
+        "link": {
+          "label": "Open the official application portal (opens a new tab)",
+          "href": "https://yzu-apply.yzu.edu.tw/"
+        }
+      }
+    ],
+    "readiness": [
+      "I have reviewed the current guidance for my applicant category.",
+      "I know which program and intake I am applying for.",
+      "I have checked the portal’s required documents and dates."
+    ],
+    "guide": "#international-guide"
+  },
+  {
+    "id": "domestic",
+    "title": "Domestic applicants",
+    "description": "Explore Taiwan undergraduate admission routes.",
+    "intro": "Choose the route that applies to you and use its current department information to plan each step.",
+    "steps": [
+      {
+        "title": "Choose your route",
+        "copy": "Check the current department list, schedule and requirements for your undergraduate admission route.",
+        "link": {
+          "label": "Read undergraduate admissions guidance",
+          "href": "#domestic-guide"
+        }
+      },
+      {
+        "title": "Prepare your application",
+        "copy": "For individual applications, explore the published portfolio and interview guidance, then follow your entry-year notice.",
+        "link": {
+          "label": "Explore portfolio and interview preparation",
+          "href": "#individual-guide"
+        }
+      },
+      {
+        "title": "Complete each step",
+        "copy": "Follow the official instructions for payment, document upload, interviews and results that apply to your route.",
+        "link": {
+          "label": "Open the official admission system (opens a new tab)",
+          "href": "https://exam.yzu.edu.tw/"
+        }
+      }
+    ],
+    "readiness": [
+      "I have confirmed my route and the current IBSC department entry.",
+      "I have checked the review materials and interview arrangements for my route.",
+      "I know where to confirm that each required step is complete."
+    ],
+    "guide": "#domestic-guide"
+  },
+  {
+    "id": "overseas",
+    "title": "Overseas compatriot applicants",
+    "description": "Guidance for overseas compatriot, Hong Kong and Macau applicants.",
+    "intro": "Review the guidance for your identity and education history before gathering your supporting evidence.",
+    "steps": [
+      {
+        "title": "Review your category",
+        "copy": "Read the current overseas compatriot, Hong Kong and Macau guidance. Contact the Global Affairs Office if your status needs clarification.",
+        "link": {
+          "label": "Read the overseas compatriot guide",
+          "href": "#overseas-guide"
+        }
+      },
+      {
+        "title": "Gather your evidence",
+        "copy": "Use the current brochure to prepare identity, residence and academic documents, including verification where required.",
+        "link": {
+          "label": "Explore document preparation",
+          "href": "#overseas-documents"
+        }
+      },
+      {
+        "title": "Apply and follow up",
+        "copy": "Complete the official online application and check email and the portal for review questions and admission results.",
+        "link": {
+          "label": "Open the official application portal (opens a new tab)",
+          "href": "https://yzu-apply.yzu.edu.tw/"
+        }
+      }
+    ],
+    "readiness": [
+      "I have reviewed the category that applies to my background.",
+      "I have checked the evidence and verification instructions in the current brochure.",
+      "I have checked the official application dates and program entry."
+    ],
+    "guide": "#overseas-guide"
+  }
+]

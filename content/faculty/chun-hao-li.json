@@ -1,0 +1,52 @@
+{
+  "id": "chun-hao-li",
+  "featured": false,
+  "name": "Chun-Hao Li",
+  "chineseName": "李俊豪",
+  "role": "Professor · Dean of the College of Humanities and Social Sciences",
+  "department": "Department of Social and Policy Sciences",
+  "image": "chun-hao-li.jpg",
+  "intro": "Population studies, historical demography, and urban studies.",
+  "sections": [
+    {
+      "id": "profile",
+      "title": "A perspective shaped by experience",
+      "paragraphs": [
+        "Chun-Hao Li is a professor in the Department of Social and Policy Sciences and Dean of Yuan Ze University’s College of Humanities and Social Sciences. He is listed among the faculty associated with IBSC.",
+        "His expertise covers population research, including historical population studies, and urban studies. He earned graduate degrees in Sociology and Urban Affairs at Michigan State University.",
+        "His research includes family and migration in Taiwan, historical household records, and the experiences and well-being of immigrants. He is also affiliated with Academia Sinica’s Institute of Ethnology as an adjunct research fellow."
+      ]
+    },
+    {
+      "id": "interests",
+      "title": "Teaching & research interests",
+      "bullets": [
+        "Population studies",
+        "Historical demography",
+        "Urban studies"
+      ]
+    },
+    {
+      "id": "education",
+      "title": "Education",
+      "bullets": [
+        "Ph.D. in Sociology and Urban Affairs — Michigan State University",
+        "M.A. in Sociology and Urban Affairs — Michigan State University"
+      ]
+    }
+  ],
+  "sources": [
+    "https://sc.hs.yzu.edu.tw/faculty-8.html",
+    "https://ih.hs.yzu.edu.tw/meet-our-staff"
+  ],
+  "alt": "Professor Chun-Hao Li",
+  "order": 4,
+  "contact": {
+    "phone": "+886 3 463 8800 ext. 2700 / 2152",
+    "email": "chl@saturn.yzu.edu.tw",
+    "office": null
+  },
+  "verified_on": "2026-10-05",
+  "contentNote": "The current department profile verifies the Dean title; the IBSC listing also contains an older Department Chair title.",
+  "sourceImageUrl": "https://sc.hs.yzu.edu.tw/img/photo-faculty/teacher-1.jpg?38"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "carlos-hernandez",
+  "featured": true,
+  "name": "Carlos Hernández Mercado",
+  "chineseName": "何凱洛",
+  "role": "Assistant Professor",
+  "department": "International Bachelor Program in Strategic Communication",
+  "image": "carlos-hernandez-portrait-verified.jpg",
+  "intro": "Rhetoric, philosophy of writing, and the rhetoric of health and medicine.",
+  "sections": [
+    {
+      "id": "profile",
+      "title": "A perspective shaped by experience",
+      "paragraphs": [
+        "Carlos Hernández Mercado is an assistant professor in IBSC at Yuan Ze University. He holds a doctorate in Philosophy from Universidad Iberoamericana.",
+        "His expertise examines writing and rhetoric across academic and social contexts. His work includes the philosophy of writing, critical race theory, the rhetoric of health and medicine, and the rhetorical practices of academic institutions.",
+        "His publications include a book on the philosophy of writing and articles addressing the body, universities, and conceptual analysis. His listed conference research also considers international students’ accounts of their experiences with healthcare systems."
+      ]
+    },
+    {
+      "id": "interests",
+      "title": "Teaching & research interests",
+      "bullets": [
+        "Rhetoric",
+        "Rhetoric of writing",
+        "Philosophy of writing",
+        "Critical race theory",
+        "Rhetoric of health and medicine",
+        "Rhetoric of academic practices"
+      ]
+    },
+    {
+      "id": "education",
+      "title": "Education",
+      "bullets": [
+        "Ph.D. in Philosophy — Universidad Iberoamericana"
+      ]
+    }
+  ],
+  "sources": [
+    "https://ih.hs.yzu.edu.tw/carlos"
+  ],
+  "alt": "Assistant Professor Carlos Hernández Mercado",
+  "order": 2,
+  "contact": {
+    "phone": "+886 3 463 8800 ext. 2742",
+    "email": "hekailuo@saturn.yzu.edu.tw",
+    "office": "70824R"
+  },
+  "verified_on": "2026-10-05",
+  "profile_link_label": "Meet Carlos",
+  "sourceImageUrl": "https://static.wixstatic.com/media/2ac1ee_ed1a8107748349519b1c90cf1796c990~mv2.jpg",
+  "sourceRenderedImageUrl": "https://static.wixstatic.com/media/2ac1ee_ed1a8107748349519b1c90cf1796c990~mv2.jpg/v1/fill/w_1655,h_2004,al_c,q_90,usm_0.66_1.00_0.01/2ac1ee_ed1a8107748349519b1c90cf1796c990~mv2.jpg",
+  "imageVerifiedAt": "2026-10-08",
+  "imageSha256": "19c49f32da5477a8de662a68f251953cdcdba80f3afa456d6be97ff11e3dc007"
+}

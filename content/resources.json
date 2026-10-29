@@ -1,0 +1,910 @@
+[
+  {
+    "filename": "resources.html",
+    "title": "Support for every part of your journey",
+    "eyebrow": "Student resources",
+    "intro": "Plan your studies, take part in campus life and prepare for what comes next. Find the IBSC information you need in one place.",
+    "image": "student-life.jpg",
+    "sections": [
+      {
+        "id": "studies",
+        "title": "Plan your studies",
+        "paragraphs": [
+          "Explore the program’s courses and learning pathway. Keep your entry-year requirements in mind when planning electives, internships and overseas study."
+        ],
+        "links": [
+          {
+            "label": "Curriculum and course map",
+            "href": "curriculum.html"
+          },
+          {
+            "label": "Meet your faculty",
+            "href": "people.html"
+          }
+        ]
+      },
+      {
+        "id": "community",
+        "title": "Take part and contribute",
+        "paragraphs": [
+          "Connect with classmates through the Student Association, explore international experiences and understand how service learning fits into university life."
+        ],
+        "links": [
+          {
+            "label": "Student Association",
+            "href": "student-association.html"
+          },
+          {
+            "label": "Service learning guide",
+            "href": "service-learning.html"
+          },
+          {
+            "label": "Global opportunities",
+            "href": "global-opportunities.html"
+          }
+        ]
+      },
+      {
+        "id": "support",
+        "title": "Find practical support",
+        "paragraphs": [
+          "Read about scholarship categories and financial support, then prepare for internships, further study and your professional life."
+        ],
+        "links": [
+          {
+            "label": "Scholarships and support",
+            "href": "scholarships.html"
+          },
+          {
+            "label": "Careers and further study",
+            "href": "careers.html"
+          },
+          {
+            "label": "Internship planning",
+            "href": "internships.html"
+          }
+        ]
+      },
+      {
+        "id": "office",
+        "title": "Start with the program office",
+        "paragraphs": [
+          "The IBSC office is in Building 7, Room R70201, on the second floor. Program secretary Shih Ching Fang can help you find the right contact for a program question."
+        ],
+        "bullets": [
+          "Email: mina0419509@saturn.yzu.edu.tw",
+          "Telephone: +886 3 463 8800, extension 2732"
+        ],
+        "links": [
+          {
+            "label": "Contact and visit",
+            "href": "about.html#visit"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "https://ih.hs.yzu.edu.tw/",
+      "https://ih.hs.yzu.edu.tw/about"
+    ],
+    "label": "Student resources"
+  },
+  {
+    "filename": "curriculum.html",
+    "title": "Build the skills, find your direction",
+    "eyebrow": "Curriculum and course map",
+    "intro": "IBSC connects strategic communication, practical English, design and digital media. Follow the learning pathway and explore selected published courses.",
+    "image": "community.jpg",
+    "sections": [
+      {
+        "id": "learning",
+        "title": "An interdisciplinary education",
+        "paragraphs": [
+          "Students learn across social and policy sciences, Chinese language and literature, applied foreign languages, art and design, and business management. English is the shared language of teaching, discussion and presentation.",
+          "The program develops problem-solving, multicultural teamwork and the practical use of English. AI and multimedia coursework complements a foundation in public relations and strategic communication."
+        ]
+      },
+      {
+        "id": "course-map",
+        "title": "Your learning pathway",
+        "paragraphs": [
+          "The first two years establish communication, writing, presentation and digital foundations. In the later years, students build on those foundations through advanced study, electives, internships and opportunities abroad.",
+          "IBSC’s published course map is based on the 2025 academic year and covers professional courses. The complete required and elective list is published separately for each entry year; university-wide requirements also apply."
+        ],
+        "bullets": [
+          "Build a foundation: practical English, communication, design and digital applications.",
+          "Develop your interests: advanced communication and persuasion, public relations and interdisciplinary electives.",
+          "Put learning into practice: internships, projects and overseas opportunities."
+        ],
+        "links": [
+          {
+            "label": "Plan an internship",
+            "href": "internships.html"
+          },
+          {
+            "label": "Explore overseas study",
+            "href": "global-opportunities.html"
+          }
+        ],
+        "editorial_note": "These stages summarize official program descriptions. Do not present them as a binding semester-by-semester requirement chart. Official Academic Affairs index also lists 2026 requirements; the IBSC graphical course map is explicitly 2025."
+      },
+      {
+        "id": "courses",
+        "title": "Selected published courses",
+        "paragraphs": [
+          "These examples show the range of IBSC study. Availability and requirements should be checked against the course list for your entry year."
+        ],
+        "bullets": [
+          "IH118 / IH119 — Academic English: Writing I / II",
+          "IH121 — Academic English: Listening and Speaking",
+          "IH117 — English Presentation Skills",
+          "IH125 — Reading and Discussion",
+          "IH105 — Intercultural Communication",
+          "IH206 — Principles of Persuasion",
+          "IH249 — Technical Communication",
+          "IH301 — Seminar in Public Relations and Strategic Communication",
+          "IH107 / IH108 — Introduction to Art and Design I / II",
+          "IH209 / IH210 — Introduction to Computer Graphics in Design I / II",
+          "IH248 — Multimedia Content Management and Creation with AI",
+          "IH233 — Introduction to Marketing",
+          "IH333 — Introduction to MICE Industry"
+        ]
+      },
+      {
+        "id": "advising",
+        "title": "Make a plan that fits",
+        "paragraphs": [
+          "Discuss course choices, academic requirements and the timing of an internship or exchange with the program office. Keep a copy of the complete requirements for your entry year when reviewing your progress."
+        ],
+        "links": [
+          {
+            "label": "Contact the program office",
+            "href": "about.html#visit"
+          },
+          {
+            "label": "Student resources",
+            "href": "resources.html"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "https://ih.hs.yzu.edu.tw/check-out-our-curriculum",
+      "https://ih.hs.yzu.edu.tw/prospective-students",
+      "https://ih.hs.yzu.edu.tw/general-8",
+      "https://www.yzu.edu.tw/admin/aa/index.php/tw/2016-01-14-06-58-46/42-2016-03-25-06-15-54/586-4"
+    ],
+    "label": "Curriculum and course map"
+  },
+  {
+    "filename": "student-association.html",
+    "title": "A community shaped by students",
+    "eyebrow": "IBSC Student Association",
+    "intro": "Meet peers, develop leadership skills and help shape campus life. The Student Association brings the IBSC community together through shared experiences.",
+    "image": "association.jpeg",
+    "sections": [
+      {
+        "id": "community",
+        "title": "Connect, contribute and grow",
+        "paragraphs": [
+          "The association offers opportunities to take part in events, workshops and networking. It is a place to build friendships and contribute your voice to student life."
+        ],
+        "bullets": [
+          "Connect with classmates across cultures.",
+          "Take part in events and student activities.",
+          "Develop leadership and collaboration through participation."
+        ]
+      },
+      {
+        "id": "in-action",
+        "title": "Student life in action",
+        "paragraphs": [
+          "The program shares stories of cultural exchange, student gatherings and service. Explore these moments to see how communication continues beyond the classroom."
+        ],
+        "links": [
+          {
+            "label": "Night of Glory: student achievement and service",
+            "href": "story-night-of-glory.html"
+          },
+          {
+            "label": "International Pizza Party",
+            "href": "story-international-pizza.html"
+          },
+          {
+            "label": "All news and stories",
+            "href": "news.html"
+          }
+        ],
+        "editorial_note": "If root uses different internal story filenames, remap these links to the actual story pages; no external article CTA."
+      },
+      {
+        "id": "take-part",
+        "title": "Find your way to take part",
+        "paragraphs": [
+          "Look through the program’s event news and ask the IBSC office how to reach current student representatives. Bring your interests, ideas and skills to the conversation."
+        ],
+        "links": [
+          {
+            "label": "Student life",
+            "href": "student-life.html"
+          },
+          {
+            "label": "Contact the program office",
+            "href": "about.html#visit"
+          },
+          {
+            "label": "Service learning guide",
+            "href": "service-learning.html"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "https://ih.hs.yzu.edu.tw/ibsc-student-association",
+      "https://ih.hs.yzu.edu.tw/s-projects-side-by-side-1"
+    ],
+    "label": "IBSC Student Association",
+    "image_alt": "Students and community participants at an IBSC activity"
+  },
+  {
+    "filename": "service-learning.html",
+    "title": "Learn through contribution",
+    "eyebrow": "Service learning",
+    "intro": "Service learning connects participation with reflection. Understand the hours, activity process and service log before you begin.",
+    "image": "student-life.jpg",
+    "sections": [
+      {
+        "id": "requirements",
+        "title": "Understand the requirement",
+        "paragraphs": [
+          "YZU describes service learning as a required one-credit undergraduate course. Before graduation, students complete 18 course hours and 18 activity hours."
+        ],
+        "bullets": [
+          "Course hours can be earned by passing departmental or general education service learning courses.",
+          "Eligible campus activities may award course or activity hours, depending on their nature.",
+          "Off-campus activities follow a separate approval and recognition process."
+        ]
+      },
+      {
+        "id": "process",
+        "title": "From activity to approved hours",
+        "bullets": [
+          "Find eligible activities in the university portal’s Activity Search or in university email announcements.",
+          "Register for the activity and pre-select it under Service Learning in the portal.",
+          "Attend the activity and sign in personally.",
+          "Complete the service log and submit it for review."
+        ]
+      },
+      {
+        "id": "log",
+        "title": "Write and submit your reflection",
+        "paragraphs": [
+          "IBSC’s guidance calls for submitting the log within one week after an event, excluding the event day. The log must be complete and at least 150 words. Missing a personal sign-in or submitting an incomplete or shorter log can result in rejection.",
+          "Check your portal for the approval result. If an activity or record needs clarification, contact the organizing unit or the Student Affairs Office."
+        ],
+        "links": [
+          {
+            "label": "Contact and support",
+            "href": "about.html#visit"
+          },
+          {
+            "label": "Back to student resources",
+            "href": "resources.html"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "https://ih.hs.yzu.edu.tw/services-7-1",
+      "https://www.yzu.edu.tw/admin/st/index.php/tw/2016-03-24-02-16-35/2017-04-20-06-39-07/1286-about-service-learning"
+    ],
+    "editorial_note": "Current official source guidance supports these precise hours/log rules. Do not reproduce the old example dates or claim late logs are generally accepted. Actual portal login may be an explicitly external action if a verified login URL is provided separately.",
+    "label": "Service learning"
+  },
+  {
+    "filename": "global-opportunities.html",
+    "title": "Take your learning into the world",
+    "eyebrow": "Global opportunities",
+    "intro": "Study abroad offers a different classroom, a new cultural perspective and a chance to put communication into practice. Start by understanding how an exchange works.",
+    "image": "global.jpg",
+    "sections": [
+      {
+        "id": "exchange",
+        "title": "What an exchange involves",
+        "paragraphs": [
+          "University exchange programs offer short-term, non-degree study through agreements with partner institutions. Students first complete YZU’s selection process for nomination; the host university then reviews the application.",
+          "The university’s outgoing exchange guidance includes undergraduates from the second year onward. Department-managed programs can have separate selection arrangements."
+        ]
+      },
+      {
+        "id": "prepare",
+        "title": "Prepare your application",
+        "bullets": [
+          "Review host options and the courses available for your field.",
+          "Prepare the exchange application, a Chinese transcript with ranking, an English transcript and language proficiency evidence.",
+          "Follow the selection instructions and the host university’s own requirements.",
+          "Discuss course recognition with the program before finalizing your study plan."
+        ]
+      },
+      {
+        "id": "next-steps",
+        "title": "From nomination to departure",
+        "paragraphs": [
+          "After host acceptance, arrange the required visa, insurance and accommodation, and complete YZU’s approval steps. Wait for official acceptance before purchasing flights. Application schedules and documents vary between hosts."
+        ],
+        "links": [
+          {
+            "label": "Academic planning",
+            "href": "curriculum.html#course-map"
+          },
+          {
+            "label": "Scholarships and support",
+            "href": "scholarships.html"
+          }
+        ]
+      },
+      {
+        "id": "short-term",
+        "title": "Other international experiences",
+        "paragraphs": [
+          "IBSC also describes short-term overseas experiences and cultural exchanges. Ask the program office about opportunities currently available and how they fit your academic plan."
+        ],
+        "links": [
+          {
+            "label": "Contact the program office",
+            "href": "about.html#visit"
+          },
+          {
+            "label": "Read student stories",
+            "href": "news.html"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "https://gao.yzu.edu.tw/index.php/en/int-exchange-2/out-student",
+      "https://ih.hs.yzu.edu.tw/events",
+      "https://ih.hs.yzu.edu.tw/prospective-students"
+    ],
+    "editorial_note": "No historic Illinois/Fukuoka offering or 2023 short-term listing is represented as currently open. Per-source outgoing-exchange paraphrase is under 200 words.",
+    "label": "Global opportunities",
+    "image_alt": "An overseas experience featured by IBSC"
+  },
+  {
+    "filename": "scholarships.html",
+    "title": "Support that helps you move forward",
+    "eyebrow": "Scholarships and financial support",
+    "intro": "Explore the types of support described by IBSC and YZU. Your applicant category, entry year and the current award announcement determine the relevant rules.",
+    "image": "student-life.jpg",
+    "sections": [
+      {
+        "id": "categories",
+        "title": "Types of support",
+        "paragraphs": [
+          "IBSC lists assistance for academic achievement, financial need, living expenses and unexpected hardship, together with awards for achievement in service, activities, talents and sports. External scholarships and grants are also listed."
+        ],
+        "bullets": [
+          "Merit awards recognize academic performance.",
+          "Need-based and living assistance support students facing financial difficulty.",
+          "Emergency assistance addresses sudden hardship.",
+          "Activity and achievement awards recognize contributions beyond coursework.",
+          "External awards have their own eligibility and application requirements."
+        ]
+      },
+      {
+        "id": "international",
+        "title": "International and overseas compatriot students",
+        "paragraphs": [
+          "For students entering from fall 2025, YZU’s published rules describe reimbursement categories of 20%, 50% and 100% of eligible tuition, miscellaneous and credit fees. Other charges, including accommodation, insurance and specified facility fees, are excluded.",
+          "Awards require review. Students must complete registration and pay the semester’s tuition and fees before scholarship disbursement."
+        ]
+      },
+      {
+        "id": "renewal",
+        "title": "Understand renewal conditions",
+        "paragraphs": [
+          "The published undergraduate renewal criteria include completing a semester, taking the university’s minimum required credits, a conduct score of at least 80 and an average academic grade of at least 75. Departmental ranking is used for the 100% and 50% categories. Meeting a threshold does not itself confirm an award.",
+          "The rules distinguish new and current students and may differ by entry year. Check the award notice that applies to your own status."
+        ]
+      },
+      {
+        "id": "prepare",
+        "title": "Prepare for an application",
+        "bullets": [
+          "Identify the scholarship category and the announcement for your status.",
+          "Check the application period and required evidence.",
+          "Prepare academic or financial documents specified by that award.",
+          "Submit through the named university unit and follow its review instructions."
+        ],
+        "paragraphs": [
+          "The Student Affairs Office handles general scholarship questions. The Global Affairs Office publishes international and overseas compatriot award guidance."
+        ],
+        "links": [
+          {
+            "label": "International admission guide",
+            "href": "admissions-international.html"
+          },
+          {
+            "label": "Overseas compatriot admission guide",
+            "href": "admissions-overseas.html"
+          },
+          {
+            "label": "Contact the program office",
+            "href": "about.html#visit"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "https://ih.hs.yzu.edu.tw/services-3",
+      "https://gao.yzu.edu.tw/index.php/en/scholarships-2/int-scholarships",
+      "https://gao.yzu.edu.tw/index.php/en/regulations-2"
+    ],
+    "editorial_note": "Avoid hard-coded application dates or interpreting any award as automatic. International/overseas rule-derived copy is under 200 words. No undergraduate stipend entitlement is claimed.",
+    "label": "Scholarships and financial support"
+  },
+  {
+    "filename": "careers.html",
+    "title": "A voice for your professional future",
+    "eyebrow": "Careers and further study",
+    "intro": "Communication skills travel across industries. Use your IBSC studies to explore the kinds of work, questions and professional environments that interest you.",
+    "image": "community.jpg",
+    "sections": [
+      {
+        "id": "directions",
+        "title": "Explore your direction",
+        "paragraphs": [
+          "IBSC emphasizes public relations, strategic communication and cross-cultural communication. Its courses also connect to marketing, digital content, design and the meetings, incentives, conferences and exhibitions industry.",
+          "Consider how your strengths in writing, presentation, audience understanding and teamwork could contribute to different organizations."
+        ],
+        "bullets": [
+          "Public relations and organizational communication",
+          "Marketing and audience-focused communication",
+          "Content, visual expression and digital media",
+          "Events and cross-cultural coordination"
+        ],
+        "editorial_note": "These are fields to explore based on the curriculum, not confirmed employment outcomes or placement guarantees."
+      },
+      {
+        "id": "experience",
+        "title": "Connect study with professional experience",
+        "paragraphs": [
+          "The program describes company connections and internship experiences as ways to prepare students for professional life. An internship can help you connect course learning with workplace practice."
+        ],
+        "links": [
+          {
+            "label": "Internships",
+            "href": "internships.html"
+          },
+          {
+            "label": "Explore the curriculum",
+            "href": "curriculum.html"
+          }
+        ]
+      },
+      {
+        "id": "further-study",
+        "title": "Continue your learning",
+        "paragraphs": [
+          "IBSC describes further study in communication, languages, social and political sciences, economics, culture and management in Taiwan and abroad. Published graduate examples include study at Yuan Ze University, National Tsing Hua University and the University of Edinburgh.",
+          "Compare programs around your interests and prepare the documents each institution requests. Program choices and admission requirements differ."
+        ],
+        "links": [
+          {
+            "label": "Meet the faculty",
+            "href": "people.html"
+          }
+        ]
+      },
+      {
+        "id": "planning",
+        "title": "Build a practical next step",
+        "bullets": [
+          "Keep examples of writing, presentations and creative projects.",
+          "Reflect on what you contributed and what you learned.",
+          "Explore organizations or postgraduate programs that match your interests.",
+          "Discuss your goals with faculty and the program office."
+        ],
+        "links": [
+          {
+            "label": "Student resources",
+            "href": "resources.html"
+          },
+          {
+            "label": "Contact and support",
+            "href": "about.html#visit"
+          }
+        ],
+        "editorial_note": "This section is practical planning guidance, not an official graduation requirement."
+      }
+    ],
+    "sources": [
+      "https://ih.hs.yzu.edu.tw/career",
+      "https://ih.hs.yzu.edu.tw/further-studies",
+      "https://ih.hs.yzu.edu.tw/check-out-our-curriculum",
+      "https://ih.hs.yzu.edu.tw/"
+    ],
+    "label": "Careers and further study"
+  },
+  {
+    "filename": "internships.html",
+    "title": "Put communication into practice",
+    "eyebrow": "Internships",
+    "intro": "Connect what you study with the work of an organization. An internship is an opportunity to explore professional interests and develop through experience.",
+    "image": "community.jpg",
+    "sections": [
+      {
+        "id": "experience",
+        "title": "Learning beyond the classroom",
+        "paragraphs": [
+          "IBSC describes working with companies to support students’ preparation for professional life. Its internship archive records experiences completed by earlier student groups.",
+          "The curriculum includes internship opportunities in the later years of study, alongside electives and overseas learning. Available placements and academic arrangements should be discussed with the program."
+        ],
+        "links": [
+          {
+            "label": "Your learning pathway",
+            "href": "curriculum.html#course-map"
+          }
+        ]
+      },
+      {
+        "id": "prepare",
+        "title": "Prepare for a conversation",
+        "paragraphs": [
+          "Begin by identifying what you want to learn. Use the questions below when discussing an opportunity with the program office or a prospective host."
+        ],
+        "bullets": [
+          "What work would I do, and which skills would I develop?",
+          "What are the dates, working arrangements and expected responsibilities?",
+          "Who would supervise me, and how would feedback be provided?",
+          "Does the experience have an academic assessment or credit arrangement?",
+          "What documents does the host require from applicants?"
+        ],
+        "editorial_note": "This is an editorial planning checklist. Do not label these questions as mandatory university procedure."
+      },
+      {
+        "id": "record",
+        "title": "Make your learning visible",
+        "paragraphs": [
+          "Keep a record of the projects, responsibilities and skills you develop, respecting the host’s confidentiality and permission requirements. Reflection can help you explain your contribution when preparing future applications."
+        ],
+        "links": [
+          {
+            "label": "Careers and further study",
+            "href": "careers.html"
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "title": "Talk with the program",
+        "paragraphs": [
+          "Contact the IBSC office to ask about current internship information, academic planning and the appropriate staff contact. Office: Building 7, Room R70201. Email: mina0419509@saturn.yzu.edu.tw. Phone: +886 3 463 8800, extension 2732."
+        ],
+        "links": [
+          {
+            "label": "Contact and visit",
+            "href": "about.html#visit"
+          },
+          {
+            "label": "Student resources",
+            "href": "resources.html"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "https://ih.hs.yzu.edu.tw/internships",
+      "https://ih.hs.yzu.edu.tw/check-out-our-curriculum"
+    ],
+    "editorial_note": "No specific partner, current placement, compensation, guaranteed offer, credit count or compulsory internship duration is invented. Preparation/record sections are clearly guidance.",
+    "label": "Internships"
+  },
+  {
+    "filename": "admissions-international.html",
+    "title": "Your international application, step by step",
+    "eyebrow": "International admission guide",
+    "intro": "Prepare for an English-taught degree in strategic communication. Understand the applicant category, gather your documents and submit through YZU’s official application portal.",
+    "image": "student-life.jpg",
+    "sections": [
+      {
+        "id": "eligibility",
+        "title": "Check the applicant category",
+        "paragraphs": [
+          "The standard international route includes foreign nationals who have never held R.O.C. nationality and do not have overseas Chinese student status when applying. Additional rules apply to other nationality, residence and prior-study histories.",
+          "Bachelor’s applicants need a high school qualification or recognized equivalent. Ask YZU’s Global Affairs Office to clarify your category if your history involves Taiwan, Hong Kong or Macau."
+        ],
+        "links": [
+          {
+            "label": "Compare admission pathways",
+            "href": "admissions.html"
+          },
+          {
+            "label": "Overseas compatriot guide",
+            "href": "admissions-overseas.html"
+          }
+        ]
+      },
+      {
+        "id": "documents",
+        "title": "Prepare your document folder",
+        "paragraphs": [
+          "The official brochure lists the following application materials. The portal identifies the documents required for your program and situation."
+        ],
+        "bullets": [
+          "High school diploma, or current enrollment evidence if you are graduating this year",
+          "Academic transcripts and any required ranking certificates",
+          "Passport cover and personal-data page",
+          "English proficiency evidence or the documented basis for an exemption",
+          "Autobiography or personal statement",
+          "Recent 2 × 2-inch headshot",
+          "Signed international admission affidavit",
+          "Financial evidence and, where applicable, a sponsorship letter",
+          "Any additional materials requested by the program"
+        ]
+      },
+      {
+        "id": "english",
+        "title": "English and document preparation",
+        "paragraphs": [
+          "The international brochure sets CEFR B1 or above for English-taught programs and describes exemption evidence. Documents outside Chinese or English require translations; admitted students must provide the verified originals required for registration."
+        ]
+      },
+      {
+        "id": "apply",
+        "title": "Complete your application",
+        "bullets": [
+          "Confirm eligibility and choose the program in the official portal.",
+          "Complete the form, upload documents and follow the application-fee instructions.",
+          "Monitor email for requests about missing or incorrect information.",
+          "Check the admission result and reply to an offer within the stated period."
+        ],
+        "paragraphs": [
+          "Apply independently through YZU’s official system. Current intake dates and final document instructions appear in that system."
+        ],
+        "links": [
+          {
+            "label": "Apply in the official YZU portal — external",
+            "href": "https://yzu-apply.yzu.edu.tw/",
+            "external": true
+          },
+          {
+            "label": "Scholarships and support",
+            "href": "scholarships.html"
+          }
+        ]
+      },
+      {
+        "id": "help",
+        "title": "Questions before you apply?",
+        "paragraphs": [
+          "For admission-category questions, contact the Global Affairs Office at iadept@saturn.yzu.edu.tw. For program information, contact IBSC at mina0419509@saturn.yzu.edu.tw."
+        ],
+        "links": [
+          {
+            "label": "Explore the curriculum",
+            "href": "curriculum.html"
+          },
+          {
+            "label": "Contact the program",
+            "href": "about.html#visit"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "https://gao.yzu.edu.tw/index.php/en/admission/international-degree-student",
+      "https://gao.yzu.edu.tw/images/2026/115xue%20nian%20du_wai%20guo%20xue%20sheng%20shen%20qing%20ru%20xue%20jian%20zhang_ENG_.pdf"
+    ],
+    "editorial_note": "Do not treat this summary as an exhaustive nationality-law checklist. Existing official webpage/brochure dates differ in places, so no deadline is hard-coded. Bachelor applicant documents are separated from master's-only motivation and recommendation requirements.",
+    "label": "International admission guide"
+  },
+  {
+    "filename": "admissions-overseas.html",
+    "title": "Prepare for your overseas compatriot application",
+    "eyebrow": "Overseas compatriot, Hong Kong and Macau guide",
+    "intro": "YZU offers a dedicated direct admission route for overseas compatriot, Hong Kong and Macau applicants. Start with your status and the evidence needed for review.",
+    "image": "student-life.jpg",
+    "sections": [
+      {
+        "id": "category",
+        "title": "Understand the category",
+        "paragraphs": [
+          "Eligibility depends on identity, residence history and education. The official guidance describes overseas compatriot students with overseas residence and permanent or long-term residence permission, and separate categories for Hong Kong and Macau residents.",
+          "Six-year residence conditions, exclusions and verification rules apply to relevant categories. The Global Affairs Office reviews your evidence; contact it if your nationality, household registration or study history needs clarification."
+        ],
+        "links": [
+          {
+            "label": "Compare admission pathways",
+            "href": "admissions.html"
+          },
+          {
+            "label": "International admission guide",
+            "href": "admissions-international.html"
+          }
+        ]
+      },
+      {
+        "id": "documents",
+        "title": "Gather evidence for your application",
+        "paragraphs": [
+          "Prepare the items identified for your category in the current brochure and portal."
+        ],
+        "bullets": [
+          "Identity documents, passport and relevant residence permission",
+          "Residence-history evidence where required",
+          "High school diploma or current enrollment certificate",
+          "Academic transcripts and required ranking certificates",
+          "Recent headshot and autobiography",
+          "The identity and education affidavit",
+          "Hong Kong or Macau eligibility confirmation where applicable",
+          "Other current-brochure appendices and personal-data agreement",
+          "Program-specific supporting materials, including language evidence where requested"
+        ]
+      },
+      {
+        "id": "verification",
+        "title": "Plan for document verification",
+        "paragraphs": [
+          "Academic documents must follow the verification instructions for the place they were issued. Chinese or English translations are needed for documents in other languages. Graduating applicants must provide the diploma required before enrollment.",
+          "The 2027 first-round brochure lists IBSC as an English-taught bachelor’s program. Use the portal’s program entry when choosing your application."
+        ]
+      },
+      {
+        "id": "apply",
+        "title": "Follow the direct application process",
+        "bullets": [
+          "Confirm your category and the program you wish to study.",
+          "Complete the official online form and upload the requested evidence.",
+          "Check email for document questions during the review.",
+          "Check your result in the system and reply to an offer within the required period."
+        ],
+        "paragraphs": [
+          "Current schedules and application details appear in the official portal."
+        ],
+        "links": [
+          {
+            "label": "Apply in the official YZU portal — external",
+            "href": "https://yzu-apply.yzu.edu.tw/",
+            "external": true
+          },
+          {
+            "label": "Scholarships and support",
+            "href": "scholarships.html"
+          }
+        ]
+      },
+      {
+        "id": "help",
+        "title": "Get the right help",
+        "paragraphs": [
+          "Contact the Global Affairs Office at iadept@saturn.yzu.edu.tw for applicant-status or document questions. The IBSC office can answer questions about the program."
+        ],
+        "links": [
+          {
+            "label": "IBSC curriculum",
+            "href": "curriculum.html"
+          },
+          {
+            "label": "Contact the program",
+            "href": "about.html#visit"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "https://gao.yzu.edu.tw/index.php/en/admission/oversea-compatriot-student",
+      "https://gao.yzu.edu.tw/files/Overseas_Chinese_Students/Overseas_Compatriot_Students_English_brochure-2027-1st.pdf"
+    ],
+    "editorial_note": "No invented IBSC-specific language threshold. The current brochure limits CEFR B1 provisions for key-industry undergraduate programs; IBSC is not in that list. Do not copy the international applicant threshold into this category.",
+    "label": "Overseas compatriot, Hong Kong and Macau guide"
+  },
+  {
+    "filename": "admissions-domestic.html",
+    "title": "Prepare your domestic application",
+    "eyebrow": "Domestic admission guide",
+    "intro": "Explore YZU’s undergraduate admission routes, then prepare for the route that applies to you. IBSC’s portfolio and interview guidance can help you explain your interests and achievements.",
+    "image": "student-life.jpg",
+    "sections": [
+      {
+        "id": "pathways",
+        "title": "Choose your admission route",
+        "paragraphs": [
+          "YZU publishes separate information for application admission (申請入學), Stars recommendation (繁星推薦) and examination distribution (分發入學). It also lists special selection, vocational-school selection, disability-specific admission, transfer admission and athletic admission."
+        ],
+        "bullets": [
+          "Check the current department list and eligibility rules for your route.",
+          "For recommendation or distribution, review the department regulations and schedule for that route."
+        ],
+        "links": [
+          {
+            "label": "Explore the IBSC curriculum",
+            "href": "curriculum.html"
+          }
+        ]
+      },
+      {
+        "id": "portfolio",
+        "title": "Prepare your learning portfolio",
+        "paragraphs": [
+          "The 2026 preparation guide lists IBSC under 人文社會學院英語學士班, code 040112. It considers language and social-subject coursework, learning achievements, activities, motivation and international-learning interests. Applicants do not need every example listed in the preparation guide."
+        ],
+        "bullets": [
+          "Choose clearly organized reports or practical work showing communication, public relations, strategic communication, society, culture or art.",
+          "Prepare an English reflection on activities and competitions; include language awards or certificates you hold.",
+          "Explain your study motivation and international-learning interests."
+        ]
+      },
+      {
+        "id": "interview",
+        "title": "Prepare for the interview",
+        "paragraphs": [
+          "The 2026 guide describes a group interview conducted mainly in English with Chinese support. Practise a clear English self-introduction and explain how your interests connect with the program."
+        ],
+        "bullets": [
+          "Use specific examples to discuss your strengths, learning experiences and areas for improvement.",
+          "Review the current interview notice for the final arrangements."
+        ],
+        "links": [
+          {
+            "label": "About IBSC",
+            "href": "about.html"
+          },
+          {
+            "label": "Meet the faculty",
+            "href": "people.html"
+          }
+        ]
+      },
+      {
+        "id": "application",
+        "title": "Complete each application step",
+        "paragraphs": [
+          "For application admission, YZU’s second-stage notice separates fee payment, interview-slot selection and document upload. Follow each instruction and confirm completion."
+        ],
+        "bullets": [
+          "Use YZU’s admission system to check payment details and results.",
+          "Upload and confirm the required review materials through the University Admissions Committee system.",
+          "Check the department interview schedule and bring the required original identity document."
+        ],
+        "links": [
+          {
+            "label": "Use the official YZU admission system — external",
+            "href": "https://exam.yzu.edu.tw/",
+            "external": true
+          },
+          {
+            "label": "Scholarships and support",
+            "href": "scholarships.html"
+          }
+        ]
+      },
+      {
+        "id": "guidance",
+        "title": "Keep your application current",
+        "paragraphs": [
+          "The preparation examples above summarize YZU’s published 2026 guide. Your entry-year prospectus and interview notice determine the actual requirements, arrangements and dates. Contact the IBSC office if you have a question about program preparation."
+        ],
+        "links": [
+          {
+            "label": "Contact the program",
+            "href": "about.html#visit"
+          },
+          {
+            "label": "Compare admission pathways",
+            "href": "admissions.html"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "https://www.yzu.edu.tw/admissions/index.php/tw/bachelor",
+      "https://www.yzu.edu.tw/admissions/index.php/tw/bachelor/apply",
+      "https://www.yzu.edu.tw/admissions/index.php/tw/bachelor/apply/points-of-application/1037-1150226-aa-0838",
+      "https://www.yzu.edu.tw/admissions/files/PersonalApplication/115/115%E9%9D%A2%E8%A9%A6%E6%BA%96%E5%82%99%E6%8C%87%E5%BC%95/040112%E4%BA%BA%E7%A4%BE%E8%8B%B1%E5%B0%88%E7%8F%AD-%E9%9D%A2%E8%A9%A6%E6%BA%96%E5%82%99%E6%8C%87%E5%BC%95.pdf",
+      "https://www.yzu.edu.tw/admissions/index.php/tw/bachelor/apply/1045-115apply02"
+    ],
+    "editorial_note": "Do not imply every university route offers IBSC in every intake. Program code and interview format are explicitly identified as 2026 preparation-guide information, not asserted as final 2027 arrangements. Portal destination is a verified university action link; reading/navigation links are internal.",
+    "label": "Domestic admission guide"
+  }
+]

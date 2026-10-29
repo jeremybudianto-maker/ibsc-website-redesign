@@ -1,0 +1,83 @@
+{
+  "updated": "2026-10-08",
+  "placements": {
+    "About IBSC": {
+      "image": "campus-building-seven.jpg",
+      "alt": "Building 7 at Yuan Ze University beneath a blue sky",
+      "caption": "Building 7, Yuan Ze University.",
+      "position": "center 15%",
+      "source_page": "https://www.yzu.edu.tw/aboutyzu/index.php/en-us/campus-tour/campus-photo",
+      "source_image": "https://www.yzu.edu.tw/aboutyzu/images/main/%E6%A0%A1%E6%99%AF/%E4%B8%83%E9%A4%A8%20Building%207.jpg",
+      "credit": "Yuan Ze University campus photo gallery",
+      "original_sha256": "f96fcfe9b98f09273ebf33f45eca8638e9bbda899aed7027d2fcc1c4f043345e"
+    },
+    "Academics": {
+      "image": "academics-workshop.jpg",
+      "alt": "An invited industry speaker sharing experience with IBSC students in a classroom",
+      "caption": "An industry speaker shares experience with IBSC students.",
+      "position": "center 38%",
+      "source_page": "https://ih.hs.yzu.edu.tw/copy-of-prospective-students",
+      "source_image": "https://static.wixstatic.com/media/2ac1ee_2dfd5b934221470fa9de68d885a6e531~mv2.jpg",
+      "credit": "International Bachelor in Strategic Communication, Yuan Ze University",
+      "original_sha256": "9f067e14b6e41af24a83a7d6fa985f4f31e33fa610f37177078b023d640734d8"
+    },
+    "Faculty & staff": {
+      "image": "people-welcome.jpg",
+      "alt": "An IBSC classroom gathering with students and instructors",
+      "caption": "IBSC students and instructors at a welcome gathering, September 2024.",
+      "position": "center 18%",
+      "source_page": "https://ih.hs.yzu.edu.tw/copy-of-prospective-students",
+      "source_image": "https://static.wixstatic.com/media/2ac1ee_76eec94cad134d54a5a7f6c5c5c54765~mv2.jpg",
+      "credit": "International Bachelor in Strategic Communication, Yuan Ze University",
+      "original_sha256": "b3dd54ca31d7379725a9b9290c5601956ef0b0ba746ad54247c4fe4825530974",
+      "event_date": "2024-09-19"
+    },
+    "Admissions": {
+      "image": "admissions-graduation.jpg",
+      "alt": "International graduates and guests gathered at Yuan Ze University’s 2025 graduation ceremony",
+      "caption": "Yuan Ze University’s 2025 international graduation ceremony.",
+      "position": "center 38%",
+      "source_page": "https://yznews.yzu.edu.tw/index.php/zh/yzu-campus-news-zh/1024-13",
+      "source_image": "https://yznews.yzu.edu.tw/images/1024/IMG_9365.jpg",
+      "credit": "Yuan Ze University news; official article credits 本報訊",
+      "original_sha256": "f53c2b7164956dcc56b56c946f62c45097a4251c5e2db65dd940049bdc528f16",
+      "event_date": "2025-05-24",
+      "natural": true
+    },
+    "Student life": {
+      "image": "student-life-welcome.jpg",
+      "alt": "IBSC students sharing food and conversation at a welcome gathering",
+      "caption": "Food and conversation at the IBSC welcome gathering, September 2024.",
+      "position": "center 35%",
+      "source_page": "https://ih.hs.yzu.edu.tw/ibscfreshmanwelcomepartyundertheibsc",
+      "source_image": "https://static.wixstatic.com/media/2ac1ee_2c1008b3a8f44794866644fc7f95df64~mv2.jpg",
+      "credit": "International Bachelor in Strategic Communication, Yuan Ze University",
+      "original_sha256": "0d51a7c79adb215b55d15ed95eb1c87983c7ebef41e1f6770d335d3e5b4883ea",
+      "event_date": "2024-09-19"
+    },
+    "News & stories": {
+      "image": "news-lunch-talk.jpg",
+      "alt": "A speaker and students in discussion at IBSC’s Lunch Talk with Senior Kristin",
+      "caption": "Lunch Talk with Senior Kristin, IBSC, May 2026.",
+      "position": "center 40%",
+      "source_page": "https://ih.hs.yzu.edu.tw/%E5%89%AF%E6%9C%AC-%E5%89%AF%E6%9C%AC-%E5%B0%88%E6%A1%88",
+      "source_image": "https://static.wixstatic.com/media/2ac1ee_529b73ca251d48598c65663e3cc231a4~mv2.jpg",
+      "credit": "International Bachelor in Strategic Communication, Yuan Ze University",
+      "original_sha256": "d1fdc6730b771697f0d4d49fb18d7d625dbbdc620e1e9ff7c3d0f341d4ecabda",
+      "event_date": "2026-05-07"
+    },
+    "Student resources": {
+      "image": "resources-library.jpg",
+      "alt": "Open library atrium with study areas, walkways and an indoor tree",
+      "caption": "Yuan Ze University library.",
+      "position": "center 50%",
+      "source_page": "https://www.iem.yzu.edu.tw/english/",
+      "source_image": "https://www.iem.yzu.edu.tw/english/images/iem/library.jpg",
+      "credit": "YZU Department of Industrial Engineering and Management website",
+      "original_sha256": "278002e98773646ac940b6f357aee5f5db240eabddbc2c9163204a63a3852543"
+    },
+    "Content & photography": {
+      "hide": true
+    }
+  }
+}

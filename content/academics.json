@@ -1,0 +1,184 @@
+{
+  "updated": "2026-10-10",
+  "sources": [
+    "https://ih.hs.yzu.edu.tw/check-out-our-curriculum",
+    "https://ih.hs.yzu.edu.tw/prospective-students"
+  ],
+  "photos": {
+    "communication": {
+      "image": "academic-communication.jpg",
+      "width": 1440,
+      "height": 960,
+      "alt": "IBSC students leading a Christmas activity with children at Bao-Sheng Elementary School",
+      "caption": "IBSC students taking part in a Christmas activity at Bao-Sheng Elementary School.",
+      "source_page": "https://ih.hs.yzu.edu.tw/copy-of-prospective-students",
+      "source_image": "https://static.wixstatic.com/media/2ac1ee_2805d17eaa444b399ef91ba1669d399f~mv2.jpg",
+      "credit": "IBSC, Yuan Ze University",
+      "original_sha256": "12992d0e8069536f6d0fa40e52e56a6afcc8784edb6b58d9060e0ad6f9dff82c"
+    },
+    "art": {
+      "image": "academic-art.jpg",
+      "width": 1152,
+      "height": 864,
+      "alt": "Silhouettes of musicians in a Land Art Festival installation at sunset",
+      "caption": "《重生：拾光者》 by 邱杰森 and 莫珊嵐, featured in IBSC’s coverage of the 2026 Taoyuan Land Art Festival.",
+      "source_page": "https://ih.hs.yzu.edu.tw/s-projects-side-by-side-1?lang=zh",
+      "source_image": "https://static.wixstatic.com/media/2ac1ee_6682f88ae76344b8b65b0db4af38c0fd~mv2.jpg",
+      "credit": "IBSC, Yuan Ze University",
+      "original_sha256": "6b08464f5157b1c426f2538b89cb1fa873a0c27d6e1e43b54aebd86d3db54982"
+    },
+    "industry": {
+      "image": "academic-industry.jpg",
+      "width": 1478,
+      "height": 1108,
+      "alt": "Teresa Chen presenting industry experience to an IBSC classroom",
+      "caption": "Teresa Chen shares industry experience during IBSC’s 2023 gender equality activity.",
+      "source_page": "https://ih.hs.yzu.edu.tw/ibscgenderequality",
+      "source_image": "https://static.wixstatic.com/media/2ac1ee_c6bc92a327584a06a2d2c248e8f86fd1~mv2.jpg",
+      "credit": "IBSC, Yuan Ze University",
+      "original_sha256": "d310bf586ad4799790eaf47625d2a82cb701c6f96541f31afebe911e078fd044"
+    },
+    "collaboration": {
+      "image": "academic-collaboration.jpg",
+      "width": 1477,
+      "height": 1108,
+      "alt": "A pedal vehicle and sculptural canopy beside the sea at the Taoyuan Land Art Festival",
+      "caption": "《共行之景計畫》, a collaboration involving 邱杰森, 莫珊嵐, and Yuan Ze University Art and Design students, featured in IBSC’s 2026 Land Art Festival coverage.",
+      "source_page": "https://ih.hs.yzu.edu.tw/s-projects-side-by-side-1?lang=zh",
+      "source_image": "https://static.wixstatic.com/media/2ac1ee_c7efb8f7425e4e958f77ddc1d724df6b~mv2.jpg",
+      "credit": "IBSC, Yuan Ze University",
+      "original_sha256": "180146d444d6062b0e947c3031f820458cf82c1def078a40e656b701ed601fc0"
+    }
+  },
+  "themes": [
+    {
+      "title": "Communicate with clarity",
+      "copy": "Develop skills in academic writing, English presentation, technical communication and intercultural communication.",
+      "group": "language",
+      "photo": "communication",
+      "deck": "Find the words. Share your perspective."
+    },
+    {
+      "title": "Create with new tools",
+      "copy": "Explore art and design, computer graphics, and multimedia content management and creation with AI.",
+      "group": "design",
+      "photo": "art",
+      "deck": "Bring ideas to life through visual expression."
+    },
+    {
+      "title": "Understand audiences",
+      "copy": "Study persuasion, marketing, public relations and the meetings, incentives, conferences and exhibitions industry.",
+      "group": "strategy",
+      "photo": "industry",
+      "deck": "Connect communication with people and industry."
+    }
+  ],
+  "fields": [
+    {
+      "id": "social-policy",
+      "title": "Social & Policy Sciences",
+      "copy": "Understand communities, institutions, and the social contexts in which communication takes place."
+    },
+    {
+      "id": "language-literature",
+      "title": "Chinese Language and Literature",
+      "copy": "Explore language, interpretation, and the cultural perspectives that shape meaning."
+    },
+    {
+      "id": "applied-linguistics",
+      "title": "Applied Linguistics & Foreign Languages",
+      "copy": "Build practical language skills and communicate effectively across cultures."
+    },
+    {
+      "id": "art-design",
+      "title": "Art & Design",
+      "copy": "Bring ideas to life through visual expression, design, and creative media."
+    },
+    {
+      "id": "business-management",
+      "title": "Business & Management",
+      "copy": "Connect audience insight with marketing, public relations, and organizational communication."
+    }
+  ],
+  "groups": [
+    {
+      "id": "language",
+      "title": "Language & communication"
+    },
+    {
+      "id": "design",
+      "title": "Design & digital media"
+    },
+    {
+      "id": "strategy",
+      "title": "Strategy & industry"
+    }
+  ],
+  "courses": [
+    {
+      "code": "IH118 / IH119",
+      "title": "Academic English: Writing I / II",
+      "group": "language"
+    },
+    {
+      "code": "IH121",
+      "title": "Academic English: Listening and Speaking",
+      "group": "language"
+    },
+    {
+      "code": "IH117",
+      "title": "English Presentation Skills",
+      "group": "language"
+    },
+    {
+      "code": "IH125",
+      "title": "Reading and Discussion",
+      "group": "language"
+    },
+    {
+      "code": "IH105",
+      "title": "Intercultural Communication",
+      "group": "language"
+    },
+    {
+      "code": "IH206",
+      "title": "Principles of Persuasion",
+      "group": "language"
+    },
+    {
+      "code": "IH249",
+      "title": "Technical Communication",
+      "group": "language"
+    },
+    {
+      "code": "IH107 / IH108",
+      "title": "Introduction to Art and Design I / II",
+      "group": "design"
+    },
+    {
+      "code": "IH209 / IH210",
+      "title": "Introduction to Computer Graphics in Design I / II",
+      "group": "design"
+    },
+    {
+      "code": "IH248",
+      "title": "Multimedia Content Management and Creation with AI",
+      "group": "design"
+    },
+    {
+      "code": "IH301",
+      "title": "Seminar in Public Relations and Strategic Communication",
+      "group": "strategy"
+    },
+    {
+      "code": "IH233",
+      "title": "Introduction to Marketing",
+      "group": "strategy"
+    },
+    {
+      "code": "IH333",
+      "title": "Introduction to MICE Industry",
+      "group": "strategy"
+    }
+  ]
+}

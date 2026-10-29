@@ -1,0 +1,51 @@
+{
+  "id": "ying-ting-wang",
+  "featured": false,
+  "name": "Ying-Ting Wang",
+  "chineseName": "王盈婷",
+  "role": "Associate Professor · Chair of Social and Policy Sciences",
+  "department": "Department of Social and Policy Sciences",
+  "image": "ying-ting-wang.jpg",
+  "intro": "Social demography, health inequality, family, and well-being.",
+  "sections": [
+    {
+      "id": "profile",
+      "title": "A perspective shaped by experience",
+      "paragraphs": [
+        "Ying-Ting Wang is an associate professor and Chair of Yuan Ze University’s Department of Social and Policy Sciences. She is also listed in the IBSC faculty directory.",
+        "Her expertise centers on social demography and health inequality. She earned a doctorate in Sociology, with a specialization in demography, at the University of Texas at Austin.",
+        "Her listed research examines family structures, living arrangements, intergenerational relationships, and their connections with health and well-being. Her work considers these questions in Taiwan and other social contexts."
+      ]
+    },
+    {
+      "id": "interests",
+      "title": "Teaching & research interests",
+      "bullets": [
+        "Social demography",
+        "Health inequality"
+      ]
+    },
+    {
+      "id": "education",
+      "title": "Education",
+      "bullets": [
+        "Ph.D. in Sociology (Demography) — University of Texas at Austin",
+        "B.A. in Sociology — National Taiwan University"
+      ]
+    }
+  ],
+  "sources": [
+    "https://sc.hs.yzu.edu.tw/faculty-69.html",
+    "https://ih.hs.yzu.edu.tw/meet-our-staff"
+  ],
+  "alt": "Associate Professor Ying-Ting Wang",
+  "order": 5,
+  "contact": {
+    "phone": "+886 3 463 8800 ext. 2160 / 2167",
+    "email": "yingtingwang@saturn.yzu.edu.tw",
+    "office": null
+  },
+  "verified_on": "2026-10-05",
+  "contentNote": "Use Associate Professor from the current department heading. The IBSC directory retains an older Assistant Professor title.",
+  "sourceImageUrl": "https://sc.hs.yzu.edu.tw/img/photo-faculty/teacher-7.jpg?38"
+}

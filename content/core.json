@@ -1,0 +1,212 @@
+{
+  "verified_on": "2026-10-05",
+  "editorial_notes": [
+    "The official program homepage states the program has operated since 2017 and is taught entirely in English.",
+    "The current Curriculum page names five contributing departments; the Prospective Students page names four. Avoid a department count in prominent copy.",
+    "The supplied ia.yzu.edu.tw address redirects to unrelated trwho.us content. Use the verified Global Affairs Office and YZU application links below.",
+    "The IBSC Exchange Program page contains old dates and Wix placeholder contact details. Link it only as a program resource; do not repeat those dates or placeholders.",
+    "Do not hard-code tuition, scholarships, admission eligibility or deadlines. Send visitors to the current official guidance."
+  ],
+  "about": {
+    "title": "Communication across cultures",
+    "eyebrow": "About IBSC",
+    "intro": "Established in 2017, Yuan Ze University’s International Bachelor in Strategic Communication prepares students to communicate with purpose in a multilingual, multicultural world.",
+    "body": "Taught entirely in English, IBSC brings together perspectives from the humanities, social sciences, design and business. Students develop the communication skills, practical experience and global outlook to find their strengths and shape their next chapter.",
+    "sections": [
+      {
+        "title": "A global classroom",
+        "copy": "Learn in an English-taught environment alongside students and faculty from different cultural backgrounds."
+      },
+      {
+        "title": "Ideas into practice",
+        "copy": "Connect classroom learning with interdisciplinary projects, internships and opportunities to study abroad."
+      },
+      {
+        "title": "People behind the program",
+        "copy": "Meet the faculty and staff who support learning, inquiry and student development."
+      }
+    ],
+    "links": [
+      {
+        "label": "Explore the program",
+        "href": "https://ih.hs.yzu.edu.tw/prospective-students"
+      },
+      {
+        "label": "Meet our faculty and staff",
+        "href": "https://ih.hs.yzu.edu.tw/meet-our-staff"
+      }
+    ],
+    "sources": [
+      "https://ih.hs.yzu.edu.tw/",
+      "https://ih.hs.yzu.edu.tw/prospective-students",
+      "https://ih.hs.yzu.edu.tw/check-out-our-curriculum"
+    ]
+  },
+  "academics": {
+    "title": "Ideas, Expression, Impact",
+    "eyebrow": "Academics",
+    "intro": "Build a foundation in strategic communication and public relations, then explore the subjects and experiences that connect with your interests.",
+    "body": "The curriculum develops critical thinking, practical English writing and presentation, and teamwork across cultures. Foundational study is complemented by design, digital media and AI-related coursework, followed by advanced electives, internships and study abroad opportunities.",
+    "sections": [
+      {
+        "title": "Communicate with clarity",
+        "copy": "Develop skills in academic writing, English presentation, technical communication and intercultural communication."
+      },
+      {
+        "title": "Create with new tools",
+        "copy": "Explore art and design, computer graphics, and multimedia content management and creation with AI."
+      },
+      {
+        "title": "Understand audiences",
+        "copy": "Study persuasion, marketing, public relations and the meetings, incentives, conferences and exhibitions industry."
+      }
+    ],
+    "sample_courses": [
+      "Intercultural Communication",
+      "Principles of Persuasion",
+      "Technical Communication",
+      "English Presentation Skills",
+      "Introduction to Marketing",
+      "Multimedia Content Management and Creation with AI"
+    ],
+    "links": [
+      {
+        "label": "View the curriculum",
+        "href": "https://ih.hs.yzu.edu.tw/check-out-our-curriculum"
+      },
+      {
+        "label": "Explore the course map",
+        "href": "https://ih.hs.yzu.edu.tw/general-8"
+      },
+      {
+        "label": "Meet our faculty and staff",
+        "href": "https://ih.hs.yzu.edu.tw/meet-our-staff"
+      }
+    ],
+    "sources": [
+      "https://ih.hs.yzu.edu.tw/check-out-our-curriculum"
+    ]
+  },
+  "student_life": {
+    "title": "Find your people, expand your world",
+    "eyebrow": "Student life",
+    "intro": "Campus life is part of the IBSC experience. Connect with classmates, take part in student activities and discover new perspectives through a community that crosses cultures.",
+    "body": "The IBSC Student Association brings students together through events, workshops and networking. Beyond the classroom, service learning and international experiences offer ways to contribute, build confidence and put communication into practice.",
+    "sections": [
+      {
+        "title": "Make connections",
+        "copy": "Join the Student Association to meet peers, develop leadership skills and help shape campus life.",
+        "href": "https://ih.hs.yzu.edu.tw/ibsc-student-association",
+        "label": "Student Association"
+      },
+      {
+        "title": "Learn beyond campus",
+        "copy": "Explore IBSC’s exchange resources and the university’s international opportunities.",
+        "href": "https://gao.yzu.edu.tw/index.php/en/",
+        "label": "Global Affairs Office"
+      },
+      {
+        "title": "Contribute to your community",
+        "copy": "Find service learning information and guidance for completing activities.",
+        "href": "https://ih.hs.yzu.edu.tw/services-7-1",
+        "label": "Service learning"
+      }
+    ],
+    "links": [
+      {
+        "label": "Student resources",
+        "href": "https://ih.hs.yzu.edu.tw/about"
+      },
+      {
+        "label": "Scholarships and grants",
+        "href": "https://ih.hs.yzu.edu.tw/services-3"
+      },
+      {
+        "label": "IBSC exchange resources",
+        "href": "https://ih.hs.yzu.edu.tw/events"
+      },
+      {
+        "label": "Latest IBSC news",
+        "href": "https://ih.hs.yzu.edu.tw/news"
+      }
+    ],
+    "sources": [
+      "https://ih.hs.yzu.edu.tw/ibsc-student-association",
+      "https://ih.hs.yzu.edu.tw/services-7-1",
+      "https://ih.hs.yzu.edu.tw/prospective-students"
+    ]
+  },
+  "admissions": {
+    "title": "Your next chapter starts here",
+    "eyebrow": "Admissions",
+    "intro": "Discover an English-taught degree in strategic communication at Yuan Ze University. Choose the admission pathway that applies to you and follow the current official guidance.",
+    "body": "Application requirements and schedules differ by applicant category. Yuan Ze University’s admissions and Global Affairs teams publish the latest eligibility rules, required documents and application instructions.",
+    "pathways": [
+      {
+        "title": "International applicants",
+        "copy": "Review eligibility, document preparation and the application process for an English-taught degree at IBSC.",
+        "links": [
+          {
+            "label": "International admission guidance",
+            "href": "https://gao.yzu.edu.tw/index.php/en/admissions-2/int-student"
+          },
+          {
+            "label": "Apply online",
+            "href": "https://yzu-apply.yzu.edu.tw/"
+          }
+        ]
+      },
+      {
+        "title": "Domestic applicants",
+        "copy": "Explore Taiwan undergraduate admission routes and prepare for IBSC’s application and interview process.",
+        "links": [
+          {
+            "label": "Undergraduate admissions",
+            "href": "https://www.yzu.edu.tw/admissions/index.php/tw/bachelor"
+          },
+          {
+            "label": "Individual application information",
+            "href": "https://www.yzu.edu.tw/admissions/index.php/tw/bachelor/apply"
+          }
+        ]
+      },
+      {
+        "title": "Overseas compatriot applicants",
+        "copy": "Review guidance for overseas compatriot, Hong Kong and Macau applicants.",
+        "links": [
+          {
+            "label": "Admission guidance",
+            "href": "https://gao.yzu.edu.tw/index.php/en/admission/oversea-compatriot-student"
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "label": "Learn about IBSC",
+        "href": "https://ih.hs.yzu.edu.tw/prospective-students"
+      },
+      {
+        "label": "YZU admissions information",
+        "href": "https://www.yzu.edu.tw/admissions/index.php/tw/"
+      },
+      {
+        "label": "Scholarships and grants",
+        "href": "https://ih.hs.yzu.edu.tw/services-3"
+      }
+    ],
+    "contact": {
+      "label": "Questions about the program?",
+      "copy": "Contact the IBSC office for program information.",
+      "email": "mina0419509@saturn.yzu.edu.tw",
+      "phone": "+886 3 463 8800 ext. 2732",
+      "location": "R70201, Building 7, 2nd floor, Yuan Ze University"
+    },
+    "sources": [
+      "https://gao.yzu.edu.tw/index.php/en/admissions-2/int-student",
+      "https://www.yzu.edu.tw/admissions/index.php/tw/",
+      "https://gao.yzu.edu.tw/index.php/en/admission/oversea-compatriot-student",
+      "https://ih.hs.yzu.edu.tw/"
+    ]
+  }
+}

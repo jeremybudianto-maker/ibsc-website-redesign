@@ -1,0 +1,55 @@
+{
+  "id": "ching-pu-chen",
+  "featured": true,
+  "name": "Ching-Pu Chen",
+  "chineseName": "陳勁甫",
+  "role": "Professor · Director of IBSC",
+  "department": "Department of Social and Policy Sciences",
+  "image": "ching-pu-chen.jpg",
+  "intro": "Decision science, negotiation, professional ethics, and crisis decision-making.",
+  "sections": [
+    {
+      "id": "profile",
+      "title": "A perspective shaped by experience",
+      "paragraphs": [
+        "Ching-Pu Chen is a professor in Yuan Ze University’s Department of Social and Policy Sciences and Director of the International Bachelor Program in Strategic Communication. He also leads the university’s International Academy.",
+        "His areas of expertise connect decision science with professional ethics, negotiation, public policy, and crisis management. He holds a doctorate in Decision Sciences from Harvard University.",
+        "Professor Chen’s previous university leadership roles include directing global affairs and international cooperation. His professional experience also includes leadership of the Chunghua Negotiation Management Association."
+      ]
+    },
+    {
+      "id": "interests",
+      "title": "Teaching & research interests",
+      "bullets": [
+        "Decision science",
+        "Professional ethics",
+        "Game theory and negotiation",
+        "Policy analysis and planning",
+        "Defense management",
+        "Crisis decision-making and management"
+      ]
+    },
+    {
+      "id": "education",
+      "title": "Education",
+      "bullets": [
+        "Ph.D. in Decision Sciences — Harvard University"
+      ]
+    }
+  ],
+  "sources": [
+    "https://sc.hs.yzu.edu.tw/faculty-6.html",
+    "https://ih.hs.yzu.edu.tw/",
+    "https://ia.yzu.edu.tw/teacher/Chen%2C%20Ching-Pu"
+  ],
+  "alt": "Professor Ching-Pu Chen",
+  "order": 1,
+  "contact": {
+    "phone": "+886 3 463 8800 ext. 2154",
+    "email": "chingpu@saturn.yzu.edu.tw",
+    "office": null
+  },
+  "verified_on": "2026-10-05",
+  "profile_link_label": "Meet Professor Chen",
+  "sourceImageUrl": "https://sc.hs.yzu.edu.tw/img/photo-faculty/teacher-4.jpg?55"
+}

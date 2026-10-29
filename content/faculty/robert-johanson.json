@@ -1,0 +1,59 @@
+{
+  "id": "robert-johanson",
+  "featured": true,
+  "name": "Robert “Coach” Johanson",
+  "chineseName": "周若漢",
+  "role": "Associate Professor",
+  "department": "International Bachelor Program in Strategic Communication",
+  "image": "robert-johanson.jpg",
+  "intro": "Business English, professional presentations, sociolinguistics, and language learning.",
+  "sections": [
+    {
+      "id": "profile",
+      "title": "A perspective shaped by experience",
+      "paragraphs": [
+        "Robert “Coach” Johanson is an associate professor in IBSC. His expertise spans Business English, professional English presentations, sociolinguistics, and second language acquisition.",
+        "His educational background includes a doctorate and a master’s degree in Foreign Language Education from the University of Texas at Austin, a master’s degree in East Asian Studies from Harvard University, and a bachelor’s degree combining German linguistics and European history from Northwestern University.",
+        "His teaching and research interests include project-based learning, English as a Medium of Instruction, e-learning, flipped classrooms, and body language. His listed scholarship also examines academic writing and the teaching strategies used by EMI instructors following the emergence of generative AI."
+      ]
+    },
+    {
+      "id": "interests",
+      "title": "Teaching & research interests",
+      "bullets": [
+        "Business English",
+        "Professional English presentations",
+        "Sociolinguistics and second language acquisition",
+        "English as a Medium of Instruction",
+        "Project-based learning",
+        "E-learning and flipped classroom approaches",
+        "Proxemics and body language",
+        "English etymology and vocabulary"
+      ]
+    },
+    {
+      "id": "education",
+      "title": "Education",
+      "bullets": [
+        "Ph.D. in Foreign Language Education — University of Texas at Austin",
+        "M.A. in Foreign Language Education — University of Texas at Austin",
+        "M.A. in East Asian Studies — Harvard University",
+        "B.A. in German Linguistics and European History (double major) — Northwestern University"
+      ]
+    }
+  ],
+  "sources": [
+    "https://ih.hs.yzu.edu.tw/robert-coach-johanson"
+  ],
+  "alt": "Associate Professor Robert “Coach” Johanson",
+  "order": 3,
+  "contact": {
+    "phone": "+886 3 463 8800 ext. 2741",
+    "email": "rejohanson@saturn.yzu.edu.tw",
+    "office": "70724R"
+  },
+  "verified_on": "2026-10-05",
+  "profile_link_label": "Meet Coach",
+  "contentNote": "The English individual profile contains the correct phone/email/office. An older Chinese-language cached profile had Carlos’s contact details, so do not use that cache.",
+  "sourceImageUrl": "https://static.wixstatic.com/media/2ac1ee_c183ba0f7981464aa2b002c81e7ffaa5~mv2.png"
+}

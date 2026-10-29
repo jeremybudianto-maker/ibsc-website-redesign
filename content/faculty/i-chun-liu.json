@@ -1,0 +1,53 @@
+{
+  "id": "i-chun-liu",
+  "featured": false,
+  "name": "I-Chun Liu",
+  "chineseName": "劉宜君",
+  "role": "Professor · Dean of Student Affairs",
+  "department": "Department of Social and Policy Sciences",
+  "image": "i-chun-liu.jpg",
+  "intro": "Public and cultural policy, social welfare, and health insurance research.",
+  "sections": [
+    {
+      "id": "profile",
+      "title": "A perspective shaped by experience",
+      "paragraphs": [
+        "I-Chun Liu is a professor in the Department of Social and Policy Sciences and heads Student Affairs at Yuan Ze University. She is listed among the faculty associated with IBSC.",
+        "Her expertise includes public policy, cultural policy, administrative management, social welfare policy, and Taiwan’s National Health Insurance. She holds a doctorate in Public Administration and Policy from National Taipei University.",
+        "Her research connects policy and public services with social well-being. Recent listed publications consider museums and care for older adults, the social value of cultural institutions, and questions of health and welfare."
+      ]
+    },
+    {
+      "id": "interests",
+      "title": "Teaching & research interests",
+      "bullets": [
+        "Public policy",
+        "Cultural policy",
+        "Administrative management",
+        "Social welfare policy",
+        "National Health Insurance research"
+      ]
+    },
+    {
+      "id": "education",
+      "title": "Education",
+      "bullets": [
+        "Ph.D. in Public Administration and Policy — National Taipei University"
+      ]
+    }
+  ],
+  "sources": [
+    "https://sc.hs.yzu.edu.tw/faculty-5.html",
+    "https://ih.hs.yzu.edu.tw/meet-our-staff"
+  ],
+  "alt": "Professor I-Chun Liu",
+  "order": 6,
+  "contact": {
+    "phone": "+886 3 463 8800 ext. 2153 / 2230",
+    "email": "chun0820@saturn.yzu.edu.tw",
+    "office": null
+  },
+  "verified_on": "2026-10-05",
+  "contentNote": "The current department profile identifies the Student Affairs role. The College Dean role was held 2019–2025 and should not be displayed as current.",
+  "sourceImageUrl": "https://sc.hs.yzu.edu.tw/img/photo-faculty/teacher-2.jpg?38"
+}
